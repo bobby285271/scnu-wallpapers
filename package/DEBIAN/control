@@ -1,0 +1,10 @@
+Package: scnu-wallpapers
+Version: 1.0
+Architecture: all
+Maintainer: Bobby Rong <admin@bobby285271.top>
+Installed-Size: 34000
+Section: x11
+Priority: optional
+Homepage: https://www.scnu.edu.cn
+Description: South China Normal University Wallpapers
+ 华南师范大学『低头抬头皆是景』系列壁纸。
