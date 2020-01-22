@@ -1,10 +1,13 @@
 ## SCNU Wallpapers
-华南师范大学『低头抬头皆是景』系列壁纸（DEB 软件包）。
+华南师范大学『低头抬头皆是景』系列壁纸（DEB 软件包）
 
-## 构建与安装
+获取二进制包：https://github.com/bobby285271/scnu-wallpapers/releases
+
+### 构建
 
 ```plain
-# dpkg -b ./package scnu-wallpapers-1.0.deb
-# apt install ./scnu-wallpapers-1.0.deb
+# git clone https://github.com/bobby285271/scnu-wallpapers.git
+# cd ./scnu-wallpapers
+# dpkg -b ./package scnu-wallpapers.deb
 ```
 
